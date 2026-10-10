@@ -85,4 +85,6 @@ Pydantic Documentation: Understand how data validation, serialization, and setti
 Uvicorn ASGI Server: Learn about the lightning-fast ASGI server implementation based on uvloop.
 Real Python - Async IO in Python: A deep dive into the Event Loop, Coroutines, and why blocking code is the enemy of async/await.
 FastAPI Dependencies (Middleware Alternative): Understand how FastAPI's Depends replaces traditional Node.js route-specific middlewares.
+
+
 This subject and curriculum were designed by @khairi.
